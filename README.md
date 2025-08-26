@@ -45,32 +45,28 @@ At Trionic LLP, I worked on two core tracks:
 ## 🗂️ Repository Structure
 
 
-
 .
 ├── single_agent_youtube_blog/
-│ ├── app.py
-│ ├── requirements.txt
-│ ├── README.md
-│ └── images/
-│ └── ui_screenshot.png
+│   ├── app.py
+│   ├── requirements.txt
+│   ├── README.md
+│   └── images/
+│       └── ui_screenshot.png
 ├── multi_agent_edu/
-│ ├── app.py
-│ ├── agents/
-│ │ ├── content_agent.py
-│ │ ├── exam_agent.py
-│ │ ├── tutor_agent.py
-│ │ └── video_agent.py
-│ ├── data/
-│ │ └── sample_docs/
-│ ├── requirements.txt
-│ ├── README.md
-│ └── images/
-│ ├── architecture.png
-│ └── dashboard.png
-└── README.md <-- (this file)
-
-
----
+│   ├── app.py
+│   ├── agents/
+│   │   ├── content_agent.py
+│   │   ├── exam_agent.py
+│   │   ├── tutor_agent.py
+│   │   └── video_agent.py
+│   ├── data/
+│   │   └── sample_docs/
+│   ├── requirements.txt
+│   ├── README.md
+│   └── images/
+│       ├── architecture.png
+│       └── dashboard.png
+└── README.md  <-- (this file)
 
 ## 🚀 How to Run (Quick Start)
 
@@ -92,6 +88,7 @@ pip install -r requirements.txt
 export OPENAI_API_KEY="your-key"
 streamlit run app.py
 
+```
 📅 Weekly Progress
 Week 1: 19 May – 24 May 2025
 
