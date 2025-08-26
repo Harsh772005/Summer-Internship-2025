@@ -1,4 +1,3 @@
-📄 README.md Content (Full Markdown)
 # SUMMERINTERNSHIP2025_22AIML003
 
 > **Role:** AI–ML Intern  
